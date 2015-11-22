@@ -1,7 +1,5 @@
 library(ggplot2)
 library(datasets)
-library(caret)
-library(randomForest)
 data(trees)
 
 
